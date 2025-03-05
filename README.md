@@ -6,7 +6,7 @@
 
 - Proficiency in **JAVA,PYTHON,C++,C**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on **Machine Learning** Projects 
 
 - 💬 Ask me about **Problem solving**
 
