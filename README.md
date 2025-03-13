@@ -27,6 +27,60 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/don3n1hmm/image/upload/v1715939090/R_fu0knq.png" alt="babel" width="40" height="40"/> </a>   </p>
 
+
+
+<p align="left"> 
+  <!-- Programming Languages -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+
+  <!-- Data Science & Machine Learning -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+
+  <!-- Deep Learning -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
+  </a> 
+
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+
+  <!-- Web Frameworks -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> 
+  </a> 
+
+  <!-- Other Tools -->
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://res.cloudinary.com/don3n1hmm/image/upload/v1715939090/R_fu0knq.png" alt="babel" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
 <br><br>
 
 ## 🔥 Streak Stats
