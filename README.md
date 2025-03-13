@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Problem solving**
 
-- 📫 Contact me on **asif570068@gmail.com**
+- 📫 Contact me on **asifmiah.cs@gmail.com**
 
 <br>
 
@@ -18,8 +18,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asif-miah-608ba9256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakibul" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009883032996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/asif-miah-608ba9256" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-miah" height="30" width="40" />
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100009883032996" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif" height="30" width="40" />
+  </a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/UCM3aSkutbQADf1bRjjOHv7g" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NeuralCraft" height="30" width="40" />
+  </a>
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0001-2465-8056" target="_blank">
+    <img align="center" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" height="30" width="30" />
+  </a>
 </p>
 
 <br>
