@@ -73,29 +73,7 @@
   </a> 
 </p>
 
-<p align="left">
-  <!-- Labels for Machine Learning & Deep Learning -->
-  <sub>Pandas</sub> &nbsp;
-  <sub>NumPy</sub> &nbsp;
-  <sub>Scikit-learn</sub> &nbsp;
-  <sub>TensorFlow</sub> &nbsp;
-  <sub>Keras</sub> &nbsp;
 
-  <!-- Labels for Programming Languages -->
-  <sub>Java</sub> &nbsp;
-  <sub>Java Swing</sub> &nbsp;
-  <sub>C++</sub> &nbsp;
-  <sub>C</sub> &nbsp;
-
-  <!-- Labels for Databases -->
-  <sub>MySQL</sub> &nbsp;
-
-  <!-- Labels for Web Frameworks -->
-  <sub>FastAPI</sub> &nbsp;
-
-  <!-- Labels for Other Tools -->
-  <sub>Babel</sub> &nbsp;
-</p>
 <br><br>
 
 ## 🔥 Streak Stats
