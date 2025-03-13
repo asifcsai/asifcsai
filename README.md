@@ -82,7 +82,7 @@
   </a> 
 
   <!-- Other Tools -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://res.cloudinary.com/don3n1hmm/image/upload/v1715939090/R_fu0knq.png" alt="babel" width="30" height="30"/> 
   </a> 
 </p>
