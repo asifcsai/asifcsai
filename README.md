@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello good people !</h1>
 <h3 align="center">This is me, Asif, an AI enthusiast </h3><br><br>
-<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=asif2042-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=AsifMiah-CS-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 <br>
 
 - Proficiency in **JAVA,PYTHON,C++,C**
@@ -92,18 +92,18 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asif2042&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="asif" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifMiah-CS&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="asif" /></p>
 
 <br>
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=asif2042&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AsifMiah-CS&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
 <br>
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asif2042&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifMiah-CS&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
 
 
 
