@@ -100,14 +100,9 @@
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsifMiah-CS&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AsifMiah-CS&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
 <br>
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifMiah-CS&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="asif" />
-</p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifMiah-CS&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
