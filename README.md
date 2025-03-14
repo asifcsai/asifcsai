@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Machine Learning** Projects 
 
-- 💬 Ask me about **Problem solving**
+- 💬 Ask me about **ML/DL Algorithms**
 
 - 📫 Contact me on **asifmiah.cs@gmail.com**
 
