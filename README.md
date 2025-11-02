@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=asifcsai-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 <br>
 
-- Proficiency in **JAVA,PYTHON,C++,C**
+- Proficiency in **PYTHON,C++,C,JAVA**
 
 - 🌱 I’m currently working on **Machine Learning** Projects 
 
 - 💬 Ask me about **ML/DL Algorithms**
 
-- 📫 Contact me on **asifmiah.cs@gmail.com**
+- 📫 Contact me on **asif.cs.ai@gmail.com**
 
 <br>
 
