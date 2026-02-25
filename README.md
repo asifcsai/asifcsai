@@ -106,3 +106,23 @@
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifcsai&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
+
+
+
+## 🔬 Featured Research & Projects
+
+Here is a highlight of my recent work in ML/DL, Vision Language Models (VLMs), and Computer Vision. *(Note: Some repositories are private due to ongoing university lab research and industry collaborations, but feel free to reach out to discuss the architectures!)*
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[LiCoR: Lightweight Context Retrieval]** | Developing an efficient, lightweight version of the ColPali model for enhanced document and context retrieval in Vision Language Models. | `Python` `PyTorch` `VLMs` | 🔒 *Private (Ongoing Research)* |
+| **[Touchless Fingerprint Verification System]** | A robust, hygienic biometric authentication system. Uses MediaPipe for hand land-marking, custom geometric cropping, and a DeepPrint Siamese Neural Network for feature extraction. | `Flutter` `Django` `PyTorch` `MediaPipe` | 🔒 *Private (University Lab)* |
+| **[ATPN for VideoQA]** | *Adaptive Temporal Policy Network* for efficient Video Question Answering. Uses a context-aware architecture and data-efficient proxies to close the efficiency gap in processing video data. | `Python` `Deep Learning` `Jupyter` | 🔒 *Private Research* |
+| **[NASA SpaceX AI Chatbot](https://github.com/asifcsai/NASA_SpaceX_AI_Assistance_Chatbot)** | An intelligent RAG (Retrieval-Augmented Generation) chatbot providing context-aware answers about space research, missions, and experiments. | `Python` `RAG` `LLMs` | 🌍 *Open Source* |
+| **[Mental Health ML Predictor](https://github.com/asifcsai/Mental_Health_Prediction_Using_Machine_Learning-Anxiety-Depression-Panic-Attack_Detection)** | Analyzed a real-world dataset of university students to predict anxiety and depression. Achieved 98-100% accuracy across 8 ML models. | `Scikit-Learn` `Pandas` `ML` | 🌍 *Open Source* |
+
+<br>
+
+## ⚡ Currently Working On
+* 🧠 Leading a university startup project to train a Vision Language Model (VLM) customized for both English and Bangla.
+* 🎓 Preparing for higher studies and IELTS, targeting graduate AI research programs in the US, UK, or Australia.
