@@ -188,13 +188,19 @@ class AsifMiah:
 
 <div align="center">
 
-**Lang**    Python · C++ · Java · Dart
-**Train**   PyTorch · TF/Keras · HuggingFace · scikit-learn
-**Generative** GAN → VAE → DDPM → Latent Diffusion → Score/SDE → Flow Matching · Neural ODE
-**Arch**    Transformer · Attention · CNN · LLM/SLM · VLM · Siamese
-**Vision**  OpenCV · MediaPipe · NumPy · Pandas · Matplotlib
-**Backend** FastAPI · Django · Flutter · MySQL
-**Env**     Git · Linux · Docker · Jupyter · VS Code
+## 🛠 Stack
+
+**Generative** &nbsp;
+![GAN](https://img.shields.io/badge/GAN-10B981?style=flat-square) ![VAE](https://img.shields.io/badge/VAE-F59E0B?style=flat-square) ![DDPM](https://img.shields.io/badge/DDPM-8B5CF6?style=flat-square) ![Score/SDE](https://img.shields.io/badge/Score·SDE-EC4899?style=flat-square) ![Flow](https://img.shields.io/badge/Flow_Matching-06B6D4?style=flat-square) ![ODE](https://img.shields.io/badge/Neural_ODE-6366F1?style=flat-square)
+
+**Framework** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF](https://img.shields.io/badge/TF-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HF](https://img.shields.io/badge/🤗_HF-FFD21E?style=flat-square) ![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square)
+
+**Arch** &nbsp;
+![Transformers](https://img.shields.io/badge/Transformer-FF6F00?style=flat-square) ![VLM](https://img.shields.io/badge/VLM-00C853?style=flat-square) ![LLM](https://img.shields.io/badge/LLM/SLM-6C63FF?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-3776AB?style=flat-square) ![Siamese](https://img.shields.io/badge/Siamese-FF6B6B?style=flat-square)
+
+**Tools** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
