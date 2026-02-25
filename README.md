@@ -197,29 +197,15 @@ class AsifMiah:
 
 ## 🛠 Stack
 
-## 🛠 Stack
-
-**Classical ML** &nbsp;
-![Regression](https://img.shields.io/badge/Regression-64748B?style=flat-square) ![SVM](https://img.shields.io/badge/SVM-64748B?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-64748B?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-64748B?style=flat-square) ![Bayesian](https://img.shields.io/badge/Bayesian_Methods-64748B?style=flat-square)
-
-**Deep Learning** &nbsp;
-![ANN](https://img.shields.io/badge/ANN-3776AB?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-3776AB?style=flat-square) ![RNN/LSTM](https://img.shields.io/badge/RNN·LSTM-3776AB?style=flat-square) ![Attention](https://img.shields.io/badge/Attention-3776AB?style=flat-square) ![Transformer](https://img.shields.io/badge/Transformer-3776AB?style=flat-square)
-
-**Generative Theory** &nbsp;`GAN → VAE → DDPM → Latent Diffusion → Score Matching → SDE → Flow Matching / Neural ODE`
-![GAN](https://img.shields.io/badge/GAN-10B981?style=flat-square) ![VAE](https://img.shields.io/badge/VAE-F59E0B?style=flat-square) ![DDPM](https://img.shields.io/badge/DDPM-8B5CF6?style=flat-square) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square) ![Score/SDE](https://img.shields.io/badge/Score·SDE-EC4899?style=flat-square) ![Flow Matching](https://img.shields.io/badge/Flow_Matching-06B6D4?style=flat-square) ![Neural ODE](https://img.shields.io/badge/Neural_ODE-6366F1?style=flat-square)
-
-**Multimodal Systems** &nbsp;
-![LLM](https://img.shields.io/badge/LLM-00C853?style=flat-square) ![SLM](https://img.shields.io/badge/SLM-00C853?style=flat-square) ![VLM](https://img.shields.io/badge/VLM-00C853?style=flat-square) ![VQA](https://img.shields.io/badge/VQA-00C853?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-00C853?style=flat-square) ![Video Gen](https://img.shields.io/badge/Video_Gen-00C853?style=flat-square)
-
-**Research Frontier** &nbsp;
-![Probabilistic Gen + Multimodal](https://img.shields.io/badge/Probabilistic_Generative_×_Multimodal-FF6B6B?style=flat-square&logoColor=white) ![Flow×VLM](https://img.shields.io/badge/Flow·Diffusion_×_VLM/LLM-FF6B6B?style=flat-square)
-
-**Frameworks** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF/Keras](https://img.shields.io/badge/TF·Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HF-FFD21E?style=flat-square) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square)
-
-**Languages & Tools** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-</div>
+| | |
+|---|---|
+| **Research Frontier** | ![Flow×Multimodal](https://img.shields.io/badge/Flow·Diffusion_×_VLM·LLM-FF6B6B?style=flat-square) ![Probabilistic×Multimodal](https://img.shields.io/badge/Probabilistic_Gen_×_Multimodal-FF6B6B?style=flat-square) |
+| **Generative Theory** | ![Flow Matching](https://img.shields.io/badge/Flow_Matching-06B6D4?style=flat-square) ![Neural ODE](https://img.shields.io/badge/Neural_ODE-6366F1?style=flat-square) ![Score/SDE](https://img.shields.io/badge/Score·SDE-EC4899?style=flat-square) ![DDPM](https://img.shields.io/badge/DDPM-8B5CF6?style=flat-square) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=flat-square) ![VAE](https://img.shields.io/badge/VAE-F59E0B?style=flat-square) ![GAN](https://img.shields.io/badge/GAN-10B981?style=flat-square) |
+| **Multimodal Systems** | ![VLM](https://img.shields.io/badge/VLM-00C853?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-00C853?style=flat-square) ![SLM](https://img.shields.io/badge/SLM-00C853?style=flat-square) ![VQA](https://img.shields.io/badge/VQA-00C853?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-00C853?style=flat-square) ![Video Gen](https://img.shields.io/badge/Video_Gen-00C853?style=flat-square) |
+| **Deep Learning** | ![Transformer](https://img.shields.io/badge/Transformer-3776AB?style=flat-square) ![Attention](https://img.shields.io/badge/Attention-3776AB?style=flat-square) ![RNN·LSTM](https://img.shields.io/badge/RNN·LSTM-3776AB?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-3776AB?style=flat-square) ![ANN](https://img.shields.io/badge/ANN-3776AB?style=flat-square) |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TF·Keras](https://img.shields.io/badge/TF·Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HF-FFD21E?style=flat-square) ![sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Languages & Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Classical ML** | ![SVM](https://img.shields.io/badge/SVM-64748B?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-64748B?style=flat-square) ![Random Forest](https://img.shields.io/badge/Random_Forest-64748B?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-64748B?style=flat-square) ![Bayesian](https://img.shields.io/badge/Bayesian_Methods-64748B?style=flat-square) |
 
 ---
 
