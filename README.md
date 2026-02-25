@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
 </picture>
 
 <br>
@@ -61,42 +61,25 @@ My current research explores using **flow-based architectures** for efficient, h
 
 ```python
 class AsifMiah:
-    def __init__(self):
-        self.name        = "Asif Miah"
-        self.role        = "AI Researcher & ML Engineer"
-        self.affiliation = "NSU Machine Intelligence Lab — North South University"
-        self.department  = "Department of CSE"
-        self.location    = "Dhaka, Bangladesh"
-        self.orcid       = "0009-0001-2465-8056"
+    """AI Researcher · Generative Models · VLMs"""
 
-        self.research_interests = [
-            "Generative Models (Diffusion, Score, SDE, Flow, ODE)",
-            "Vision-Language Models (VLMs) & Multimodal LLMs",
-            "Probabilistic Deep Learning",
-            "Computer Vision & Biometric Systems",
-            "Efficient Information Retrieval",
-            "Video Generation & Audio-Conditioned Synthesis",
-        ]
+    focus: tuple = (
+        "Flow Matching / Neural ODEs",
+        "Score-Based Diffusion · SDEs",
+        "Multimodal VLMs · Video Synthesis",
+        "Probabilistic Deep Learning",
+    )
 
-        self.theoretical_foundations = [
-            "CNNs, ANNs, Transformers, Attention Mechanisms",
-            "GANs → VAEs → DDPM → Latent Diffusion (Stable Diffusion)",
-            "Score Matching → SDEs → Flow Matching → Neural ODEs",
-            "Probabilistic Graphical Models & Bayesian Methods",
-            "LLMs, SLMs, MLLMs — Architecture & Training",
-        ]
+    active: dict = field(default_factory=lambda: {
+        "FlowHead" : "Talking-head video gen via ODE-based flow",
+        "LiCoR"    : "Lightweight contextual retrieval for multilingual VLMs",
+    })
 
-        self.philosophy = (
-            "Learn from first principles. Understand the math. "
-            "Then build it from scratch."
-        )
+    axiom: str = "∇ understand the math → derive the code → build from scratch"
 
-    def currently_working_on(self):
-        return {
-            "research_1": "Flow-based talking head video generation with lip-sync & emotion",
-            "research_2": "LiCoR — Lightweight contextual retrieval for multilingual VLMs",
-            "practice":   "Implementing generative models from scratch (GAN→VAE→DDPM→Flow)",
-        }
+    affiliation : str = "NSU Machine Intelligence Lab · Dhaka, BD"
+    orcid       : str = "0009-0001-2465-8056"
+    contact     : str = "asif.cs.ai@gmail.com"
 ```
 
 ---
@@ -205,55 +188,13 @@ class AsifMiah:
 
 <div align="center">
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-
-### Generative AI & Theory
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-8B5CF6?style=for-the-badge)
-![Flow Matching](https://img.shields.io/badge/Flow_Matching-06B6D4?style=for-the-badge)
-![Score / SDE](https://img.shields.io/badge/Score_/_SDE-EC4899?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-10B981?style=for-the-badge)
-![VAEs](https://img.shields.io/badge/VAEs-F59E0B?style=for-the-badge)
-![Neural ODEs](https://img.shields.io/badge/Neural_ODEs-6366F1?style=for-the-badge)
-
-### Architecture Knowledge
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![Attention](https://img.shields.io/badge/Attention_Mechanisms-EE4C2C?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-3776AB?style=for-the-badge)
-![LLMs / SLMs](https://img.shields.io/badge/LLMs_/_SLMs-6C63FF?style=for-the-badge)
-![Multimodal VLMs](https://img.shields.io/badge/Multimodal_VLMs-00C853?style=for-the-badge)
-![Siamese Networks](https://img.shields.io/badge/Siamese_Networks-FF6B6B?style=for-the-badge)
-
-### Data & Vision
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Backend & Mobile
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Lang**    Python · C++ · Java · Dart
+**Train**   PyTorch · TF/Keras · HuggingFace · scikit-learn
+**Generative** GAN → VAE → DDPM → Latent Diffusion → Score/SDE → Flow Matching · Neural ODE
+**Arch**    Transformer · Attention · CNN · LLM/SLM · VLM · Siamese
+**Vision**  OpenCV · MediaPipe · NumPy · Pandas · Matplotlib
+**Backend** FastAPI · Django · Flutter · MySQL
+**Env**     Git · Linux · Docker · Jupyter · VS Code
 
 </div>
 
