@@ -1,128 +1,306 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ASIF MIAH — GitHub Profile README
+     Last updated: February 2026
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hello good people !</h1>
-<h3 align="center">This is me, Asif, an AI enthusiast </h3><br><br>
-<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=asifcsai-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asif" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
-<br>
+<div align="center">
 
-- Proficiency in **PYTHON,C++,C,JAVA**
-
-- 🌱 I’m currently working on **Machine Learning** Projects 
-
-- 💬 Ask me about **ML/DL Algorithms**
-
-- 📫 Contact me on **asif.cs.ai@gmail.com**
+<!-- Dynamic typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Asif+Miah+%7C+AI+Researcher;Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+VLMs)](https://git.io/typing-svg)
 
 <br>
 
-##
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/asif-miah-608ba9256" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-miah" height="30" width="40" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=100009883032996" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif" height="30" width="40" />
-  </a>
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/channel/UCM3aSkutbQADf1bRjjOHv7g" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="NeuralCraft" height="30" width="40" />
-  </a>
-  <!-- ORCID -->
-  <a href="https://orcid.org/0009-0001-2465-8056" target="_blank">
-    <img align="center" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID" height="30" width="30" />
-  </a>
-</p>
+<!-- Badges row -->
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--2465--8056-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2465-8056)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Miah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-miah-608ba9256)
+[![Email](https://img.shields.io/badge/Email-asif.cs.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asif.cs.ai@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-NeuralCraft-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCM3aSkutbQADf1bRjjOHv7g)
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Machine Learning & Deep Learning -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> 
-  </a> 
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="30" height="30"/> 
-  </a> 
+<img src="https://komarev.com/ghpvc/?username=asifcsai&label=Profile+Views&color=6C63FF&style=flat-square" alt="Profile views" />
 
-  <!-- Programming Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Java_Swing" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java_swing" width="30" height="30"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
-  </a> 
+</div>
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-  </a> 
+---
 
-  <!-- Web Frameworks -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="30" height="30"/> 
-  </a> 
+## 👋 About Me
 
-  <!-- Other Tools -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://res.cloudinary.com/don3n1hmm/image/upload/v1715939090/R_fu0knq.png" alt="babel" width="30" height="30"/> 
-  </a> 
-</p>
+```python
+class AsifMiah:
+    def __init__(self):
+        self.role       = "AI Researcher & ML Engineer"
+        self.institute  = "North South University, Dept. of CSE"
+        self.location   = "Dhaka, Bangladesh"
+        self.interests  = [
+            "Deep Learning",
+            "Computer Vision",
+            "Vision-Language Models (VLMs)",
+            "Biometric Systems",
+            "Information Retrieval",
+        ]
+        self.currently  = {
+            "researching": "Lightweight VLMs for multilingual document understanding",
+            "building":    "Production-grade biometric verification systems",
+            "exploring":   "Efficient video understanding architectures",
+        }
 
+    def say_hi(self):
+        print("Thanks for visiting! Most of my work lives in private repos")
+        print("due to ongoing research & industry collaborations.")
+        print("Feel free to reach out — I love discussing architectures!")
+```
 
-<br><br>
+---
 
-## 🔥 Streak Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asifcsai&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5&cache_bust=1" alt="asif" />
-</p>
+<div align="center">
 
-<br>
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
-##
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifcsai&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues&cache_bust=1" alt="asif" />
-</p>
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifcsai&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="asif" /></p>
-
-
+---
 
 ## 🔬 Featured Research & Projects
 
-Here is a highlight of my recent work in ML/DL, Vision Language Models (VLMs), and Computer Vision. *(Note: Some repositories are private due to ongoing university lab research and industry collaborations, but feel free to reach out to discuss the architectures!)*
+> Most of my repositories are private due to ongoing **university lab research** and **industry collaborations**.
+> Below is a curated timeline of my work. Feel free to reach out to discuss architectures and approaches!
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[LiCoR: Lightweight Context Retrieval]** | Developing an efficient, lightweight version of the ColPali model for enhanced document and context retrieval in Vision Language Models. | `Python` `PyTorch` `VLMs` | 🔒 *Private (Ongoing Research)* |
-| **[Touchless Fingerprint Verification System]** | A robust, hygienic biometric authentication system. Uses MediaPipe for hand land-marking, custom geometric cropping, and a DeepPrint Siamese Neural Network for feature extraction. | `Flutter` `Django` `PyTorch` `MediaPipe` | 🔒 *Private (University Lab)* |
-| **[ATPN for VideoQA]** | *Adaptive Temporal Policy Network* for efficient Video Question Answering. Uses a context-aware architecture and data-efficient proxies to close the efficiency gap in processing video data. | `Python` `Deep Learning` `Jupyter` | 🔒 *Private Research* |
-| **[NASA SpaceX AI Chatbot](https://github.com/asifcsai/NASA_SpaceX_AI_Assistance_Chatbot)** | An intelligent RAG (Retrieval-Augmented Generation) chatbot providing context-aware answers about space research, missions, and experiments. | `Python` `RAG` `LLMs` | 🌍 *Open Source* |
-| **[Mental Health ML Predictor](https://github.com/asifcsai/Mental_Health_Prediction_Using_Machine_Learning-Anxiety-Depression-Panic-Attack_Detection)** | Analyzed a real-world dataset of university students to predict anxiety and depression. Achieved 98-100% accuracy across 8 ML models. | `Scikit-Learn` `Pandas` `ML` | 🌍 *Open Source* |
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗
+     ║  PROJECT CARDS — To add a new project, copy any <tr>...</tr> block  ║
+     ║  below and update the fields. Projects are ordered newest-first.    ║
+     ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+### 🧠 Active Research (2025 – Present)
+
+<table>
+<tr>
+<td width="40" align="center">🔒</td>
+<td>
+  <strong>LiCoR: Lightweight Contextual Retrieval</strong><br>
+  <sub>Jan 2025 – Present · Private (University Lab + Industry)</sub><br><br>
+  Developing an efficient, lightweight alternative to ColPali for enhanced document and context retrieval in Vision-Language Models. Focuses on reducing computational overhead while maintaining retrieval accuracy for multilingual (English + Bangla) document understanding.<br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLMs-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Information_Retrieval-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🔒</td>
+<td>
+  <strong>Touchless Fingerprint Verification System</strong><br>
+  <sub>2024 – Present · Private (University Lab)</sub><br><br>
+  A hygienic, touchless biometric system that uses a smartphone camera for fingerprint capture. The pipeline includes MediaPipe hand landmarking, custom geometric fingertip cropping, CNN-based quality assessment, Gabor filter enhancement, and a DeepPrint Siamese Network for 192-d fixed-length feature extraction. Multi-finger cosine similarity matching enables robust verification across all ten fingertips.<br><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepPrint-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Biometrics-6C63FF?style=flat-square" />
+  <br><br>
+  <!-- DEMO: Upload a GIF/video to a GitHub Issue and paste the link below -->
+  <!-- <img src="YOUR_DEMO_GIF_URL_HERE" width="600" /> -->
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🔒</td>
+<td>
+  <strong>ATPN: Adaptive Temporal Policy Network for VideoQA</strong><br>
+  <sub>2025 · Private (Research)</sub><br><br>
+  Closing the efficiency gap in Video Question Answering with a novel Adaptive Temporal Policy Network. Combines a context-aware architecture with a pragmatic, data-efficient proxy strategy to intelligently select the most relevant video frames, drastically reducing compute while preserving answer accuracy.<br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Video_Understanding-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-00C853?style=flat-square" />
+</td>
+</tr>
+</table>
+
+### 🌍 Open-Source Projects
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/NASA_SpaceX_AI_Assistance_Chatbot">NASA SpaceX AI Research Chatbot</a></strong><br>
+  <sub>2025 · Open Source · MIT License</sub><br><br>
+  An intelligent RAG (Retrieval-Augmented Generation) chatbot that provides context-aware answers about space research, missions, and experiments. Ingests NASA and SpaceX documentation, embeds it into a vector store, and retrieves relevant context to generate accurate, grounded responses.<br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DB-00C853?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/micrograd-asif">Micrograd — From-Scratch Autograd Engine</a></strong><br>
+  <sub>2026 · Open Source</sub><br><br>
+  A minimal, scalar-valued autograd engine with a neural network library built from scratch. Educational implementation for deeply understanding backpropagation, computational graphs, and gradient flow through neural networks.<br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autograd-EE4C2C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Neural_Networks-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-FFD21E?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/Mental_Health_Prediction_Using_Machine_Learning-Anxiety-Depression-Panic-Attack_Detection">Mental Health Prediction — Anxiety & Depression Detection</a></strong><br>
+  <sub>2025 · Open Source</sub><br><br>
+  Analyzed a real-world dataset of French university students to predict anxiety, depression, and panic attacks. Benchmarked 8 ML models achieving 98–100% accuracy, F1 score, precision, and recall. Includes comprehensive EDA, feature engineering, and model comparison.<br><br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-00C853?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/Image-Caption-Generator-CNN-LSTM-VGG16">Image Caption Generator — CNN + LSTM + VGG16</a></strong><br>
+  <sub>2025 · Open Source</sub><br><br>
+  An image captioning system using VGG16 for feature extraction and LSTM for sequence generation, trained on the Flickr 8k dataset. Achieved BLEU-1 of 0.523 and BLEU-4 of 0.294. Two-stage training pipeline with beam search decoding.<br><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/VGG16-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/AI_Models">AI Models — Collection</a></strong><br>
+  <sub>2025 · Open Source · MIT License</sub><br><br>
+  A growing collection of AI/ML/DL projects including image classification, NLP, computer vision, and more. Features implementations of CNNs, RNNs, Transformers, YOLO, and transfer learning.<br><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square" />
+</td>
+</tr>
+</table>
+
+### 📦 Other Projects
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/Inventory_and_Billing_System-Java_Swing">MelodyMart — Inventory & Billing System</a></strong><br>
+  <sub>2024 · Open Source</sub><br><br>
+  A full-featured inventory management and billing system for music & media retailers, built with Java Swing and MySQL.<br><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-007396?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/Bangladesh_National_Portal_Management_System">Bangladesh National Portal Management System</a></strong><br>
+  <sub>2024 · Open Source</sub><br><br>
+  A web-based national portal management system built with PHP and MySQL.<br><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+  <strong><a href="https://github.com/asifcsai/Competitive-Programming-Problem-Solution">Competitive Programming Solutions</a></strong><br>
+  <sub>Ongoing · Open Source</sub><br><br>
+  A large collection of competitive programming solutions encountered throughout my CP journey.<br><br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HOW TO ADD A NEW PROJECT:
+     
+     1. Copy the <table>...</table> block above
+     2. Paste it under the appropriate section heading
+     3. Update:
+        - 🔒 (private) or 🟢 (public) icon
+        - Project name & link (if public)
+        - Date & status
+        - Description
+        - Tech stack badges
+     4. Commit & push!
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asifcsai&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=asifcsai&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifcsai&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+💡 **Interested in collaborating on AI/ML research?**
+I'm always open to discussing architectures, sharing ideas, and exploring new problems.
+
+📬 Reach me at **[asif.cs.ai@gmail.com](mailto:asif.cs.ai@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/asif-miah-608ba9256)**.
 
 <br>
 
-## ⚡ Currently Working On
-* 🧠 Leading a university startup project to train a Vision Language Model (VLM) customized for both English and Bangla.
-* 🎓 Preparing for higher studies and IELTS, targeting graduate AI research programs in the US, UK, or Australia.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>⭐ If you find any of my open-source work useful, a star means a lot!</sub>
+</div>
