@@ -94,74 +94,63 @@ class AsifMiah:
 ## 🏢 Experience
 
 <!-- Timeline-style experience section -->
-
 <table>
 <tr>
-<td width="100" align="center">
-  <br>
+<td width="110" align="center">
   <img src="https://img.shields.io/badge/Sep_2025-Present-58A6FF?style=flat-square" /><br>
   <sub><b>Current</b></sub>
 </td>
 <td>
-  <strong>🔬 Intern Research Assistant</strong><br>
-  <strong>NSU Machine Intelligence Lab</strong> · North South University<br><br>
-  Working on deep learning research projects including touchless biometric verification systems and conditional video generation models. Conducting experiments with flow-based architectures for efficient, high-quality talking head synthesis with lip-sync and emotion control.<br><br>
+  <strong>🔬 Intern Research Assistant</strong> · <strong>NSU Machine Intelligence Lab</strong><br>
+  <sub>Flow-based talking head synthesis · touchless fingerprint biometrics · conditional video generation</sub><br>
   <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Generative_Models-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Biometrics-FF6B6B?style=flat-square" />
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
+<tr><td colspan="2"><hr style="border:none;border-top:1px solid #30363D;margin:4px 0"/></td></tr>
 
 <tr>
-<td width="100" align="center">
-  <br>
+<td width="110" align="center">
   <img src="https://img.shields.io/badge/May_2025-Jan_2026-8B949E?style=flat-square" /><br>
-  <sub><b>8 months</b></sub>
+  <sub>8 months</sub>
 </td>
 <td>
-  <strong>🎓 Teaching Assistant — ECE Department</strong><br>
-  <strong>North South University</strong><br><br>
-  TA for two consecutive semesters in the ECE Department. Assigned to <b>CSE 225: Data Structures & Algorithms</b> and <b>CSE 445: Machine Learning</b>. Conducted lab sessions, graded assignments, held office hours, and mentored 100+ students on ML fundamentals and algorithmic problem solving.<br><br>
-  <img src="https://img.shields.io/badge/Data_Structures-F7931E?style=flat-square" />
+  <strong>🎓 Teaching Assistant</strong> · <strong>North South University</strong> — ECE Dept.<br>
+  <sub>CSE 225: DSA · CSE 445: Machine Learning · lab sessions · mentored 100+ students</sub><br>
   <img src="https://img.shields.io/badge/Algorithms-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Teaching-FFD21E?style=flat-square" />
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
+<tr><td colspan="2"><hr style="border:none;border-top:1px solid #30363D;margin:4px 0"/></td></tr>
 
 <tr>
-<td width="100" align="center">
-  <br>
+<td width="110" align="center">
   <img src="https://img.shields.io/badge/Feb_2025-May_2025-8B949E?style=flat-square" /><br>
-  <sub><b>3 months</b></sub>
+  <sub>3 months</sub>
 </td>
 <td>
-  <strong>🎓 Undergraduate Teaching Assistant</strong><br>
-  <strong>Department of Mathematics & Physics</strong> · North South University<br><br>
-  Assisted in undergraduate mathematics and physics courses, supporting students with problem sets and conceptual understanding.<br><br>
+  <strong>🎓 Teaching Assistant</strong> · <strong>Dept. of Mathematics & Physics</strong> · NSU<br>
+  <sub>Undergraduate math & physics · problem sets · conceptual support</sub><br>
   <img src="https://img.shields.io/badge/Mathematics-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/Physics-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teaching-FFD21E?style=flat-square" />
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
+<tr><td colspan="2"><hr style="border:none;border-top:1px solid #30363D;margin:4px 0"/></td></tr>
 
 <tr>
-<td width="100" align="center">
-  <br>
+<td width="110" align="center">
   <img src="https://img.shields.io/badge/Jan_2023-Apr_2023-8B949E?style=flat-square" /><br>
-  <sub><b>2 months</b></sub>
+  <sub>2 months</sub>
 </td>
 <td>
-  <strong>🧩 Probationary Member</strong><br>
-  <strong>NSU Problem Solvers</strong> · North South University<br><br>
-  Active member of the university's competitive programming community. Participated in regular contests and problem-solving sessions.<br><br>
+  <strong>🧩 Probationary Member</strong> · <strong>NSU Problem Solvers</strong><br>
+  <sub>Competitive programming · contests · algorithmic problem solving</sub><br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Competitive_Programming-FF6B6B?style=flat-square" />
 </td>
