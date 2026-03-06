@@ -300,6 +300,26 @@ class AsifMiah:
   <img src="https://img.shields.io/badge/-🟢-brightgreen?style=flat-square" />
 </td>
 <td>
+  <h4><a href="https://github.com/asifcsai/neural-architectures-from-scratch">Neural Architectures from Scratch</a></h4>
+  <sub>🕐 2026 · 🌍 Open Source</sub><br><br>
+  A growing, from-scratch implementation series covering foundational AI architectures across the full ML spectrum: <b>ViT (Vision Transformer) → DiT (Diffusion Transformer) → LLMs → VLMs → DDPM → Score Matching → Flow Matching</b>. Each model built directly from tensor operations in PyTorch — no high-level wrappers, no black boxes.<br><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ViT-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/DiT-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Diffusion-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flow_Matching-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/From_Scratch-FFD21E?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="44" align="center">
+  <img src="https://img.shields.io/badge/-🟢-brightgreen?style=flat-square" />
+</td>
+<td>
   <h4><a href="https://github.com/asifcsai/generative-models-from-scratch">Generative Models from Scratch</a></h4>
   <sub>🕐 2026 · 🌍 Open Source</sub><br><br>
   A comprehensive, from-scratch implementation series covering the full generative modeling spectrum: <b>GAN → VAE → DDPM (Denoising Diffusion) → Latent Diffusion (Stable Diffusion) → Score Matching → SDE-based → Flow Matching</b>. Each model implemented with clean, annotated code and the underlying math explained.<br><br>
