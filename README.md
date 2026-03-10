@@ -21,7 +21,7 @@
 
 <!-- Social & identity badges -->
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--2465--8056-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-2465-8056)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Miah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-miah-608ba9256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Miah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifcsai)
 [![Email](https://img.shields.io/badge/Email-asif.cs.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asif.cs.ai@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-NeuralCraft-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCM3aSkutbQADf1bRjjOHv7g)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009883032996)
